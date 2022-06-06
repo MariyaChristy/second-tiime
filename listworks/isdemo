@@ -1,0 +1,68 @@
+print num+1 if num >15 else print num-1 num=15 if num ==15
+ numbers =[12,13,14,15,16,17]
+
+ for num in numbers:
+       if  num>15:
+            print(num+1)
+       elif num<15:
+            print(num-1)
+       elif num==15:
+             print(num)
+
+
+
+
+print count of numbers where numbers in range of 14-18
+
+
+
+
+count=0
+for num in numbers:
+       if num >=14 and num<=18:
+          count+=1
+         ptint
+
+    for num in numbers
+      if num in range (14,19):
+       count+=1
+       print (count)
+
+
+numbers=[-1,2,-5,2,5,-6,1,0,-3,6,8]
+pos_count=0
+neg_count=0
+zer_count=0
+for num in numbers:
+    if num>=0:
+       pos_count+=1
+
+    elif num<=0:
+        neg_count+=1:
+
+    elif n==0:
+         zer_count===1:
+print("pos"{pos_count},"neg"{neg_count},zero{zero count})
+
+
+total sum
+for num in number
+ print(company+"located at"+location+"current status"+status)
+
+
+
+sum=0
+for num in numbers:
+    sum+=n
+    print(sum)
+
+
+
+
+
+
+
+
+
+
+
